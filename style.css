@@ -1,0 +1,27 @@
+body {
+    background: #0D818A;
+    font-family: 'Segoe UI';
+}
+
+nav {
+    background: rebeccapurple;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.card {
+    background: white;
+    padding: 15px;
+    margin: 15px;
+}
+
+.btn {
+    background: green;
+    color: white;
+    padding: 10px;
+}
